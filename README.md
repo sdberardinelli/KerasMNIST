@@ -12,6 +12,7 @@ simple `get_next()` batch function is implemented to get MNIST data
 batch by batch. 
 
 ![Alt text](figure_1.png?raw=true "Accuracy on Top, Loss on Bottom")
+
 The figure above is an example of the output at around 10 epochs: Accuracy on Top and Loss on Bottom"
 
 ### Usage
